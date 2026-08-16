@@ -1,0 +1,6 @@
+﻿code,name,sector,price,score,rs_near_high,trend_template,golden_cross,roe,reason
+6532,"BAYCURRENT, INC.",Services,7687.0,94.6,False,False,False,0.38583001,ROE38.6%と資本コストを大きく上回る高い収益性。
+4021,NISSAN CHEMICAL CORP.,Chemicals,7976.0,88.6,False,True,False,0.2178,トレンドテンプレート合格(株価が上昇中の75日線・200日線の上に位置する健全な上昇トレンド)、ROE21.8%と資本コストを大きく上回る高い収益性。
+8411,"MIZUHO FINANCIAL GROUP, INC.",Banking,8620.0,87.5,False,True,False,0.124919996,トレンドテンプレート合格(株価が上昇中の75日線・200日線の上に位置する健全な上昇トレンド)、ROE12.5%と資本コストを大きく上回る高い収益性。
+4385,"MERCARI, INC.",Services,4851.0,87.0,False,True,False,0.29884002,トレンドテンプレート合格(株価が上昇中の75日線・200日線の上に位置する健全な上昇トレンド)、ROE29.9%と資本コストを大きく上回る高い収益性。
+8591,ORIX CORP.,Other Financial Services,6376.0,85.7,False,True,False,0.14035,トレンドテンプレート合格(株価が上昇中の75日線・200日線の上に位置する健全な上昇トレンド)、ROE14.0%と資本コストを大きく上回る高い収益性。

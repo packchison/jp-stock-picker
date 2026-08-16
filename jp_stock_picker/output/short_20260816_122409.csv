@@ -1,0 +1,6 @@
+﻿code,name,sector,price,score,rsi,macd_hist,dev_rate_25,volume_ratio,golden_cross,reason
+5831,"SHIZUOKA FINANCIAL GROUP, INC.",Banking,3513.0,87.7,64.6,18.0,6.13,1.43,True,ゴールデンクロス直後、MACDが強気転換
+2503,"KIRIN HOLDINGS CO., LTD.",Foods,3108.0,83.7,62.5,7.38,5.58,1.04,True,ゴールデンクロス直後、MACDが強気転換
+4385,"MERCARI, INC.",Services,4851.0,83.1,60.5,23.71,5.63,1.15,True,ゴールデンクロス直後、MACDが強気転換
+2432,"DENA CO., LTD.",Services,2536.0,82.0,54.7,9.15,2.75,1.5,True,ゴールデンクロス直後、出来高増加(1.5倍)
+9147,"NIPPON EXPRESS HOLDINGS, INC.",Land Transport,5684.0,81.1,63.7,29.98,5.2,0.95,True,ゴールデンクロス直後、MACDが強気転換

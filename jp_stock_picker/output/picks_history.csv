@@ -1,0 +1,16 @@
+﻿run_date,horizon,code,name,sector,price_at_pick,score,reason
+2026-08-16,long,1928,"SEKISUI HOUSE, LTD.",Construction,3444.0,73.9,PER8.7倍・PBR1.03倍の超割安、高ROE12.6%、配当利回り4.2%・高配当、増益基調
+2026-08-16,long,543A,ARCHION CORP.,Automobiles & Auto parts,276.0,81.2,PER1.9倍・PBR0.81倍の超割安、高ROE50.8%、配当利回り2.9%、負債少なく財務健全、増益基調
+2026-08-16,long,5714,"DOWA HOLDINGS CO., LTD.",Nonferrous Metals,9476.0,81.2,PER9.0倍・PBR1.22倍の超割安、高ROE18.5%、配当利回り3.6%・高配当、負債少なく財務健全、増益基調
+2026-08-16,long,7202,ISUZU MOTORS LTD.,Automobiles & Auto parts,2265.5,71.5,PER11.7倍・PBR1.03倍の割安、ROE11.6%、配当利回り4.2%・高配当、増益基調
+2026-08-16,long,8750,"DAIICHI LIFE GROUP, INC.",Insurance,1874.0,72.9,PER15.5倍・PBR1.48倍、高ROE13.6%、配当利回り3.8%・高配当、負債少なく財務健全、増益基調
+2026-08-16,mid,4021,NISSAN CHEMICAL CORP.,Chemicals,7976.0,88.6,トレンドテンプレート合格(株価が上昇中の75日線・200日線の上に位置する健全な上昇トレンド)、ROE21.8%と資本コストを大きく上回る高い収益性。
+2026-08-16,mid,4385,"MERCARI, INC.",Services,4851.0,87.0,トレンドテンプレート合格(株価が上昇中の75日線・200日線の上に位置する健全な上昇トレンド)、ROE29.9%と資本コストを大きく上回る高い収益性。
+2026-08-16,mid,6532,"BAYCURRENT, INC.",Services,7687.0,94.6,ROE38.6%と資本コストを大きく上回る高い収益性。
+2026-08-16,mid,8411,"MIZUHO FINANCIAL GROUP, INC.",Banking,8620.0,87.5,トレンドテンプレート合格(株価が上昇中の75日線・200日線の上に位置する健全な上昇トレンド)、ROE12.5%と資本コストを大きく上回る高い収益性。
+2026-08-16,mid,8591,ORIX CORP.,Other Financial Services,6376.0,85.7,トレンドテンプレート合格(株価が上昇中の75日線・200日線の上に位置する健全な上昇トレンド)、ROE14.0%と資本コストを大きく上回る高い収益性。
+2026-08-16,short,2432,"DENA CO., LTD.",Services,2536.0,82.0,ゴールデンクロス直後、出来高増加(1.5倍)
+2026-08-16,short,2503,"KIRIN HOLDINGS CO., LTD.",Foods,3108.0,83.7,ゴールデンクロス直後、MACDが強気転換
+2026-08-16,short,4385,"MERCARI, INC.",Services,4851.0,83.1,ゴールデンクロス直後、MACDが強気転換
+2026-08-16,short,5831,"SHIZUOKA FINANCIAL GROUP, INC.",Banking,3513.0,87.7,ゴールデンクロス直後、MACDが強気転換
+2026-08-16,short,9147,"NIPPON EXPRESS HOLDINGS, INC.",Land Transport,5684.0,81.1,ゴールデンクロス直後、MACDが強気転換

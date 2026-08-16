@@ -1,0 +1,4 @@
+.claude/
+__pycache__/
+*.pyc
+jp_stock_picker/cache/
